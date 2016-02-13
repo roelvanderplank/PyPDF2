@@ -1,3 +1,8 @@
+# A Fork Of PyPDF2
+Reason: used together with other python project (fork-of-pdf-stitcher) in order to achieve the goal described in the readme of that other python project!
+
+## Text below is from the original project
+
 #PyPDF2
 
 PyPDF2 is a pure-python PDF library capable of
